@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Theoretical ecology lab @ UM-Flint"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: pubs.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - minty
+     # - cosmo
+     # - brand
+    css: styles.css
+    toc: true
