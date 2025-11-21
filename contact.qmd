@@ -25,4 +25,4 @@ Murchie Science Building - West\
 303, E. Kearsley St,\
 Flint, MI 48502.\
 <u>Office:</u> 403J\
-<u>Lab:</u> 435
+<u>Lab:</u> 425
