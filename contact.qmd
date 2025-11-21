@@ -1,0 +1,28 @@
+---
+title: "Athma Senthilnathan"
+about:
+  template: trestles
+  image: images/athma_photo_cropped.jpg
+  links:
+    - icon: bluesky
+      text: bluesky
+      href: https://bsky.app/profile/athmanathan.bsky.social
+    - icon: twitter
+      text: twitter
+      href: https://x.com/Athmanathan25
+    - icon: linkedin
+      text: linkedIn
+      href: https://www.linkedin.com/in/athma-senthilnathan-68b513247/
+toc: false
+---
+#### Assistant Professor of Biology
+
+### E-mail
+athmanat@umich.edu
+
+### Address
+Murchie Science Building - West\
+303, E. Kearsley St,\
+Flint, MI 48502.\
+<u>Office:</u> 403J\
+<u>Lab:</u> 435

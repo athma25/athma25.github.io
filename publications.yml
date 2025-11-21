@@ -1,0 +1,202 @@
+- author:
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Ong
+    given: Theresa
+  id: senthilnathan2024management
+  issued: 2024
+  title: "Management history can cause irreversible changes in
+    agroecosystems: An experimental demonstration"
+  title-short: Management history can cause irreversible changes in
+    agroecosystems
+  type: article-journal
+  path: "https://doi.org/10.21203/rs.3.rs-4837518/v1"
+- author:
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: D'Andrea
+    given: Rafael
+  container-title: Ecology Letters
+  id: senthilnathan2024coexistence
+  issue: 9
+  issued: 2024
+  page: e14503
+  publisher: Wiley Online Library
+  title: Coexistence of competing plants under plant--soil feedback
+  type: article-journal
+  path: "https://doi.org/10.1111/ele.14503"
+  volume: 27
+- author:
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: D'Andrea
+    given: Rafael
+  container-title: Ecology
+  id: senthilnathan2023niche
+  issue: 4
+  issued: 2023
+  page: e3993
+  publisher: Wiley Online Library
+  title: Niche theory for positive plant--soil feedbacks
+  type: article-journal
+  path: "https://doi.org/10.1002/ecy.3993"
+  volume: 104
+- author:
+  - family: Senthilnathan
+    given: Athmanathan
+  container-title: Proceedings of the Royal Society B
+  id: senthilnathan2023smaller
+  issue: 2001
+  issued: 2023
+  page: 20230627
+  publisher: The Royal Society
+  title: Smaller is better in competition for space
+  type: article-journal
+  path: "https://doi.org/10.1098/rspb.2023.0627"
+  volume: 290
+- author:
+  - family: Ou
+    given: William JA
+  - family: Henriques
+    given: Gil JB
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Ke
+    given: Po-Ju
+  - family: Grainger
+    given: Tess N
+  - family: Germain
+    given: Rachel M
+  container-title: BioScience
+  id: ou2022writing
+  issue: 3
+  issued: 2022
+  page: 300-313
+  publisher: Oxford University Press
+  title: "Writing accessible theory in ecology and evolution: Insights
+    from cognitive load theory"
+  title-short: Writing accessible theory in ecology and evolution
+  type: article-journal
+  path: "https://doi.org/10.1093/biosci/biab133"
+  volume: 72
+- author:
+  - family: Grainger
+    given: Tess N
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Ke
+    given: Po-Ju
+  - family: Barbour
+    given: Matthew A
+  - family: Jones
+    given: Natalie T
+  - family: DeLong
+    given: John P
+  - family: Otto
+    given: Sarah P
+  - family: O'connor
+    given: Mary I
+  - family: Coblentz
+    given: Kyle E
+  - family: Goel
+    given: Nikunj
+  - literal: others
+  container-title: The American Naturalist
+  id: grainger2022empiricist
+  issue: 1
+  issued: 2022
+  page: 1-20
+  publisher: The University of Chicago Press Chicago, IL
+  title: An empiricist's guide to using ecological theory
+  type: article-journal
+  path: "https://doi.org/10.1086/717206"
+  volume: 199
+- author:
+  - family: Tverskoi
+    given: Denis
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Gavrilets
+    given: Sergey
+  container-title: Scientific reports
+  id: tverskoi2021dynamics
+  issue: 1
+  issued: 2021
+  page: 18670
+  publisher: Nature Publishing Group UK London
+  title: The dynamics of cooperation, power, and inequality in a
+    group-structured society
+  type: article-journal
+  path: "https://www.nature.com/articles/s41598-021-97863-7"
+  volume: 11
+- author:
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Gavrilets
+    given: Sergey
+  container-title: The American Naturalist
+  id: senthilnathan2021ecological
+  issue: 1
+  issued: 2021
+  page: 1-17
+  publisher: The University of Chicago Press Chicago, IL
+  title: Ecological consequences of intraspecific variation in
+    coevolutionary systems
+  type: article-journal
+  path: "https://doi.org/10.1086/711886"
+  volume: 197
+- author:
+  - family: Ware
+    given: Ian M
+  - family: Fitzpatrick
+    given: Connor R
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Bayliss
+    given: Shannon LJ
+  - family: Beals
+    given: Kendall K
+  - family: Mueller
+    given: Liam O
+  - family: Summers
+    given: Jennifer L
+  - family: Wooliver
+    given: Rachel C
+  - family: Van Nuland
+    given: Michael E
+  - family: Kinnison
+    given: Michael T
+  - literal: others
+  container-title: Functional Ecology
+  id: ware2019feedbacks
+  issue: 1
+  issued: 2019
+  page: 31-42
+  publisher: Wiley Online Library
+  title: "Feedbacks link ecosystem ecology and evolution across spatial
+    and temporal scales: Empirical evidence and future directions"
+  title-short: Feedbacks link ecosystem ecology and evolution across
+    spatial and temporal scales
+  type: article-journal
+  path: "https://doi.org/10.1111/1365-2435.13267"
+  volume: 33
+- author:
+  - family: Nair
+    given: Gokul G
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Iyer
+    given: Srikanth K
+  - family: Guttal
+    given: Vishwesha
+  container-title: Physical Review E
+  id: nair2019fission
+  issue: 3
+  issued: 2019
+  page: 032412
+  publisher: APS
+  title: Fission-fusion dynamics and group-size-dependent composition in
+    heterogeneous populations
+  type: article-journal
+  path: "https://doi.org/10.1103/PhysRevE.99.032412"
+  volume: 99

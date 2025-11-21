@@ -1,0 +1,18 @@
+---
+title: "Publications"
+listing:
+  type: table
+  contents: publications.yml
+  filter-ui: false
+  fields: [title,issued,container-title]
+  sort-ui: [title,container-title,issued]
+  sort: "year desc"
+  field-display-names:
+    title: "Title"
+    issued: "Year"
+    container-title: "Journal"
+---
+
+\* *Contact [Athma](contact.qmd) if you want a PDF copy for personal use*
+
+You can also find the papers at [Google Scholar](https://scholar.google.com/citations?user=BiXmynsAAAAJ&hl=en)

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+#  pre-render: _build.qmds.R
+
+website:
+  title: "Theoretical ecology @ UM-Flint"
+  favicon: ./images/tmp_icon.png
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: pubs.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme:
+      - minty
+      - custom.scss
+     # - cosmo
+     # - brand
+    css: styles.css
+    toc: false
+    page-layout: full
+    #mainfont: opensans
+    link-external-newwindow: true

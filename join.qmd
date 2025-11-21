@@ -1,0 +1,27 @@
+---
+title: "Join the lab!"
+toc: false
+bibliography: publications.bib
+suppress-bibliography: true
+---
+
+If you are interested in any of our ongoing research or broadly interested in theoretical ecology and would like some research experience, then reach out to [Athma](contact.qmd). The lab is actively seeking to recruit undergraduate and masters students with a\
+
+* biology background but interested in learning more about mathematics and scientific computing in solving ecological problems, or
+* mathematics/physics/computer science background interested in learning more about theory in ecology and evolutionary biology.
+
+### You can read one of our papers to decide if you are interested
+If you would like to know more about\
+
+* how theory/mathematics is relevant in ecology?\
+	[Grainger, T. N., Senthilnathan, A., ... & Germain, R. M. (2022). An empiricist’s guide to using ecological theory. The American Naturalist, 199(1), 1-20.](https://doi.org/10.1086/717206)
+* how can a mathematical model be used to make sense of a greenhouse experiment with corn?\
+	[Senthilnathan, A., & Ong, T. (2024). Management history can cause irreversible changes in agroecosystems: an experimental demonstration.](https://doi.org/10.21203/rs.3.rs-4837518/v1)
+* how can I use differential equations to study spatial dynamics of plant communities?\
+	[Senthilnathan, A., & D'Andrea, R. (2023). Niche theory for positive plant–soil feedbacks. Ecology, 104(4), e3993.](https://doi.org/10.1002/ecy.3993)
+* how can I use stochastic models to study population dynamics?\
+	[Senthilnathan, A. (2023). Smaller is better in competition for space. Proceedings of the Royal Society B, 290(2001), 20230627.](https://doi.org/10.1098/rspb.2023.0627)
+* how can I use game theory to study inequality in human societies?\
+	[Tverskoi, D., Senthilnathan, A., & Gavrilets, S. (2021). The dynamics of cooperation, power, and inequality in a group-structured society. Scientific reports, 11(1), 18670.](https://www.nature.com/articles/s41598-021-97863-7)
+
+\* *Contact [Athma](contact.qmd) if you want a PDF copy for personal use*
