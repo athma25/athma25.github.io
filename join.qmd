@@ -16,7 +16,7 @@ If you would like to know more about\
 * how theory/mathematics is relevant in ecology?\
 	[Grainger, T. N., Senthilnathan, A., ... & Germain, R. M. (2022). An empiricist’s guide to using ecological theory. The American Naturalist, 199(1), 1-20.](https://doi.org/10.1086/717206)
 * how can a mathematical model be used to make sense of a greenhouse experiment with corn?\
-	[Senthilnathan, A., & Ong, T. (2024). Management history can cause irreversible changes in agroecosystems: an experimental demonstration.](https://doi.org/10.21203/rs.3.rs-4837518/v1)
+	[Senthilnathan, A., & Ong, T. W. Y. (2026). Management history can cause irreversible changes in agroecosystems: insights from an extended Carpenter model. Journal of The Royal Society Interface, 23(239).](https://doi.org/10.1098/rsif.2025.0943)
 * how can I use differential equations to study spatial dynamics of plant communities?\
 	[Senthilnathan, A., & D'Andrea, R. (2023). Niche theory for positive plant–soil feedbacks. Ecology, 104(4), e3993.](https://doi.org/10.1002/ecy.3993)
 * how can I use stochastic models to study population dynamics?\

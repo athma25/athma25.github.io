@@ -3,14 +3,14 @@
     given: Athmanathan
   - family: Ong
     given: Theresa
+  container-title: Journal of The Royal Society Interface
   id: senthilnathan2024management
-  issued: 2024
-  title: "Management history can cause irreversible changes in
-    agroecosystems: An experimental demonstration"
+  issued: 2026
+  title: "Management history can cause irreversible changes in agroecosystems: insights from an extended Carpenter model"
   title-short: Management history can cause irreversible changes in
     agroecosystems
   type: article-journal
-  path: "https://doi.org/10.21203/rs.3.rs-4837518/v1"
+  path: "https://doi.org/10.1098/rsif.2025.0943"
 - author:
   - family: Senthilnathan
     given: Athmanathan
