@@ -15,13 +15,13 @@ If you would like to know more about\
 
 * how theory/mathematics is relevant in ecology?\
 	[Grainger, T. N., Senthilnathan, A., ... & Germain, R. M. (2022). An empiricist’s guide to using ecological theory. The American Naturalist, 199(1), 1-20.](https://doi.org/10.1086/717206)
-* how can a mathematical model be used to make sense of a greenhouse experiment with corn?\
+* how can a mathematical model be used to make sense of a **greenhouse experiment** with corn?\
 	[Senthilnathan, A., & Ong, T. W. Y. (2026). Management history can cause irreversible changes in agroecosystems: insights from an extended Carpenter model. Journal of The Royal Society Interface, 23(239).](https://doi.org/10.1098/rsif.2025.0943)
-* how can I use differential equations to study spatial dynamics of plant communities?\
+* how can I use **differential equations** to study spatial dynamics of plant communities?\
 	[Senthilnathan, A., & D'Andrea, R. (2023). Niche theory for positive plant–soil feedbacks. Ecology, 104(4), e3993.](https://doi.org/10.1002/ecy.3993)
-* how can I use stochastic models to study population dynamics?\
+* how can I use **stochastic models** to study population dynamics?\
 	[Senthilnathan, A. (2023). Smaller is better in competition for space. Proceedings of the Royal Society B, 290(2001), 20230627.](https://doi.org/10.1098/rspb.2023.0627)
-* how can I use game theory to study inequality in human societies?\
+* how can I use **game theory** to study inequality in human societies?\
 	[Tverskoi, D., Senthilnathan, A., & Gavrilets, S. (2021). The dynamics of cooperation, power, and inequality in a group-structured society. Scientific reports, 11(1), 18670.](https://www.nature.com/articles/s41598-021-97863-7)
 
 \* *Contact [Athma](contact.qmd) if you want a PDF copy for personal use*

@@ -1,16 +1,40 @@
 - author:
   - family: Senthilnathan
     given: Athmanathan
-  - family: Ong
-    given: Theresa
-  container-title: Journal of The Royal Society Interface
-  id: senthilnathan2024management
+  - family: Ke
+    given: Po-Ju
+  - family: Yan
+    given: Xinyi
+  - family: Crawford
+    given: Kerri
+  - family: D'Andrea
+    given: Rafael
+  container-title: Plant and Soil
+  id: senthilnathan2026plants
   issued: 2026
-  title: "Management history can cause irreversible changes in agroecosystems: insights from an extended Carpenter model"
+  page: 1-13
+  publisher: Springer
+  title: "Plants, soil, and coexistence: An alternative approach to
+    modelling plant-soil feedback"
+  title-short: Plants, soil, and coexistence
+  type: article-journal
+- author:
+  - family: Senthilnathan
+    given: Athmanathan
+  - family: Ong
+    given: Theresa Wei Ying
+  container-title: Journal of the Royal Society Interface
+  id: senthilnathan2026management
+  issue: 239
+  issued: 2026
+  page: 20250943
+  publisher: The Royal Society
+  title: "Management history can cause irreversible changes in
+    agroecosystems: Insights from an extended carpenter model"
   title-short: Management history can cause irreversible changes in
     agroecosystems
   type: article-journal
-  path: "https://doi.org/10.1098/rsif.2025.0943"
+  volume: 23
 - author:
   - family: Senthilnathan
     given: Athmanathan
@@ -24,7 +48,7 @@
   publisher: Wiley Online Library
   title: Coexistence of competing plants under plant--soil feedback
   type: article-journal
-  path: "https://doi.org/10.1111/ele.14503"
+  url: "https://doi.org/10.1111/ele.14503"
   volume: 27
 - author:
   - family: Senthilnathan
@@ -39,7 +63,7 @@
   publisher: Wiley Online Library
   title: Niche theory for positive plant--soil feedbacks
   type: article-journal
-  path: "https://doi.org/10.1002/ecy.3993"
+  url: "https://doi.org/10.1002/ecy.3993"
   volume: 104
 - author:
   - family: Senthilnathan
@@ -52,7 +76,7 @@
   publisher: The Royal Society
   title: Smaller is better in competition for space
   type: article-journal
-  path: "https://doi.org/10.1098/rspb.2023.0627"
+  url: "https://doi.org/10.1098/rspb.2023.0627"
   volume: 290
 - author:
   - family: Ou
@@ -77,7 +101,7 @@
     from cognitive load theory"
   title-short: Writing accessible theory in ecology and evolution
   type: article-journal
-  path: "https://doi.org/10.1093/biosci/biab133"
+  url: "https://doi.org/10.1093/biosci/biab133"
   volume: 72
 - author:
   - family: Grainger
@@ -109,7 +133,7 @@
   publisher: The University of Chicago Press Chicago, IL
   title: An empiricist's guide to using ecological theory
   type: article-journal
-  path: "https://doi.org/10.1086/717206"
+  url: "https://doi.org/10.1086/717206"
   volume: 199
 - author:
   - family: Tverskoi
@@ -127,7 +151,7 @@
   title: The dynamics of cooperation, power, and inequality in a
     group-structured society
   type: article-journal
-  path: "https://www.nature.com/articles/s41598-021-97863-7"
+  url: "https://www.nature.com/articles/s41598-021-97863-7"
   volume: 11
 - author:
   - family: Senthilnathan
@@ -143,7 +167,7 @@
   title: Ecological consequences of intraspecific variation in
     coevolutionary systems
   type: article-journal
-  path: "https://doi.org/10.1086/711886"
+  url: "https://doi.org/10.1086/711886"
   volume: 197
 - author:
   - family: Ware
@@ -178,7 +202,7 @@
   title-short: Feedbacks link ecosystem ecology and evolution across
     spatial and temporal scales
   type: article-journal
-  path: "https://doi.org/10.1111/1365-2435.13267"
+  url: "https://doi.org/10.1111/1365-2435.13267"
   volume: 33
 - author:
   - family: Nair
@@ -198,5 +222,5 @@
   title: Fission-fusion dynamics and group-size-dependent composition in
     heterogeneous populations
   type: article-journal
-  path: "https://doi.org/10.1103/PhysRevE.99.032412"
+  url: "https://doi.org/10.1103/PhysRevE.99.032412"
   volume: 99

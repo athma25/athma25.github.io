@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-issued','listing-container-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-author","listing-container-title","listing-id","listing-issued","listing-title","listing-title-short","listing-type","listing-issue","listing-page","listing-publisher","listing-volume"],
+      searchColumns: ["listing-author","listing-container-title","listing-id","listing-issued","listing-page","listing-publisher","listing-title","listing-title-short","listing-type","listing-issue","listing-volume","listing-url"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -246,22 +246,35 @@ window.Quarto = {
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-title-sort="Management history can cause irreversible changes in agroecosystems: insights from an extended Carpenter model">
+<tr data-index="0" data-listing-title-sort="Plants, soil, and coexistence: An alternative approach to modelling plant-soil feedback">
 <td>
-<a href="https://doi.org/10.1098/rsif.2025.0943" class="title listing-title">Management history can cause irreversible changes in agroecosystems: insights from an extended Carpenter model</a>
+<span class="listing-title">Plants, soil, and coexistence: An alternative approach to modelling plant-soil feedback</span>
 </td>
 <td>
 <span class="listing-issued">2026</span>
 </td>
 <td>
-<span class="listing-container-title">Journal of The Royal Society Interface</span>
+<span class="listing-container-title">Plant and Soil</span>
 </td>
 
 </tr>
 
-<tr data-index="1" data-listing-title-sort="Coexistence of competing plants under plant--soil feedback">
+<tr data-index="1" data-listing-title-sort="Management history can cause irreversible changes in agroecosystems: Insights from an extended carpenter model">
 <td>
-<a href="https://doi.org/10.1111/ele.14503" class="title listing-title">Coexistence of competing plants under plant–soil feedback</a>
+<span class="listing-title">Management history can cause irreversible changes in agroecosystems: Insights from an extended carpenter model</span>
+</td>
+<td>
+<span class="listing-issued">2026</span>
+</td>
+<td>
+<span class="listing-container-title">Journal of the Royal Society Interface</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="Coexistence of competing plants under plant--soil feedback">
+<td>
+<span class="listing-title">Coexistence of competing plants under plant–soil feedback</span>
 </td>
 <td>
 <span class="listing-issued">2024</span>
@@ -272,9 +285,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="2" data-listing-title-sort="Niche theory for positive plant--soil feedbacks">
+<tr data-index="3" data-listing-title-sort="Niche theory for positive plant--soil feedbacks">
 <td>
-<a href="https://doi.org/10.1002/ecy.3993" class="title listing-title">Niche theory for positive plant–soil feedbacks</a>
+<span class="listing-title">Niche theory for positive plant–soil feedbacks</span>
 </td>
 <td>
 <span class="listing-issued">2023</span>
@@ -285,9 +298,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="3" data-listing-title-sort="Smaller is better in competition for space">
+<tr data-index="4" data-listing-title-sort="Smaller is better in competition for space">
 <td>
-<a href="https://doi.org/10.1098/rspb.2023.0627" class="title listing-title">Smaller is better in competition for space</a>
+<span class="listing-title">Smaller is better in competition for space</span>
 </td>
 <td>
 <span class="listing-issued">2023</span>
@@ -298,9 +311,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="4" data-listing-title-sort="Writing accessible theory in ecology and evolution: Insights from cognitive load theory">
+<tr data-index="5" data-listing-title-sort="Writing accessible theory in ecology and evolution: Insights from cognitive load theory">
 <td>
-<a href="https://doi.org/10.1093/biosci/biab133" class="title listing-title">Writing accessible theory in ecology and evolution: Insights from cognitive load theory</a>
+<span class="listing-title">Writing accessible theory in ecology and evolution: Insights from cognitive load theory</span>
 </td>
 <td>
 <span class="listing-issued">2022</span>
@@ -311,9 +324,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="5" data-listing-title-sort="An empiricist's guide to using ecological theory">
+<tr data-index="6" data-listing-title-sort="An empiricist's guide to using ecological theory">
 <td>
-<a href="https://doi.org/10.1086/717206" class="title listing-title">An empiricist’s guide to using ecological theory</a>
+<span class="listing-title">An empiricist’s guide to using ecological theory</span>
 </td>
 <td>
 <span class="listing-issued">2022</span>
@@ -324,9 +337,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="6" data-listing-title-sort="The dynamics of cooperation, power, and inequality in a group-structured society">
+<tr data-index="7" data-listing-title-sort="The dynamics of cooperation, power, and inequality in a group-structured society">
 <td>
-<a href="https://www.nature.com/articles/s41598-021-97863-7" class="title listing-title">The dynamics of cooperation, power, and inequality in a group-structured society</a>
+<span class="listing-title">The dynamics of cooperation, power, and inequality in a group-structured society</span>
 </td>
 <td>
 <span class="listing-issued">2021</span>
@@ -337,9 +350,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="7" data-listing-title-sort="Ecological consequences of intraspecific variation in coevolutionary systems">
+<tr data-index="8" data-listing-title-sort="Ecological consequences of intraspecific variation in coevolutionary systems">
 <td>
-<a href="https://doi.org/10.1086/711886" class="title listing-title">Ecological consequences of intraspecific variation in coevolutionary systems</a>
+<span class="listing-title">Ecological consequences of intraspecific variation in coevolutionary systems</span>
 </td>
 <td>
 <span class="listing-issued">2021</span>
@@ -350,9 +363,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="8" data-listing-title-sort="Feedbacks link ecosystem ecology and evolution across spatial and temporal scales: Empirical evidence and future directions">
+<tr data-index="9" data-listing-title-sort="Feedbacks link ecosystem ecology and evolution across spatial and temporal scales: Empirical evidence and future directions">
 <td>
-<a href="https://doi.org/10.1111/1365-2435.13267" class="title listing-title">Feedbacks link ecosystem ecology and evolution across spatial and temporal scales: Empirical evidence and future directions</a>
+<span class="listing-title">Feedbacks link ecosystem ecology and evolution across spatial and temporal scales: Empirical evidence and future directions</span>
 </td>
 <td>
 <span class="listing-issued">2019</span>
@@ -363,9 +376,9 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="9" data-listing-title-sort="Fission-fusion dynamics and group-size-dependent composition in heterogeneous populations">
+<tr data-index="10" data-listing-title-sort="Fission-fusion dynamics and group-size-dependent composition in heterogeneous populations">
 <td>
-<a href="https://doi.org/10.1103/PhysRevE.99.032412" class="title listing-title">Fission-fusion dynamics and group-size-dependent composition in heterogeneous populations</a>
+<span class="listing-title">Fission-fusion dynamics and group-size-dependent composition in heterogeneous populations</span>
 </td>
 <td>
 <span class="listing-issued">2019</span>
